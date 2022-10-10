@@ -1,3 +1,3 @@
 # pegsolitaire11-14
 
-pegsolitaire11-14
+https://wa-aakira.github.io/pegsolitaire11-14
